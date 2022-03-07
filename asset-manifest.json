@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Interface-do-Discord/static/js/main.58a5a937.js",
+    "static/media/logo.svg": "/Interface-do-Discord/static/media/logo.fff47e76468c1f8026f2613e9f5eedb3.svg",
+    "index.html": "/Interface-do-Discord/index.html",
+    "main.58a5a937.js.map": "/Interface-do-Discord/static/js/main.58a5a937.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.58a5a937.js"
+  ]
+}
